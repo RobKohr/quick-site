@@ -5,7 +5,7 @@
   "repository" :
   { "type" : "git",
     "url" : "http://github.com/robkohr/quick-site.git"
-  }
+  },
   "keywords": ["mvc", "site"],
   "author": "Rob Kohr <robkohr@gmail.com>",
   "dependencies": {
