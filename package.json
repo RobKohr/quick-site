@@ -1,0 +1,14 @@
+{
+  "name": "quick-site",
+  "version":"0.1.20130920",
+  "description": "A basic web server with ejs templates and sockets built in",
+  "author": "Rob Kohr <robkohr@gmail.com>",
+  "dependencies": {
+    "express": "*",
+    "ejs":"*",
+    "socket.io":"*",
+    "express-validator":"*",
+    "express-session-mongo":"*",
+    "mongodb":"*"
+  }
+}
