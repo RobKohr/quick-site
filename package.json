@@ -1,10 +1,16 @@
 {
   "name": "quick-site",
-  "version":"0.1.20130920",
+  "version":"0.1.20131101",
   "description": "A basic web server with ejs templates and sockets built in",
+  "repository" :
+  { "type" : "git",
+    "url" : "http://github.com/robkohr/quick-site.git"
+  }
+  "keywords": ["mvc", "site"],
   "author": "Rob Kohr <robkohr@gmail.com>",
   "dependencies": {
     "express": "*",
+    "quick-forms": "*",
     "ejs":"*",
     "socket.io":"*",
     "express-validator":"*",
