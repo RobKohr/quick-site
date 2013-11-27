@@ -1,4 +1,4 @@
-/*
+ /*
 Socket site sets up a really quick express/socket.io site. Everything comes from the 
 home directory, and templates are loaded based on path.
 */
