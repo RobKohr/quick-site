@@ -1,6 +1,6 @@
 {
   "name": "quick-site",
-  "version":"0.1.20130926",
+  "version":"0.1.20140118",
   "description": "A basic web server with ejs templates and sockets built in",
   "author": "Rob Kohr <robkohr@gmail.com>",
   "dependencies": {
